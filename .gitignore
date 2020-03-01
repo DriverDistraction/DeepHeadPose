@@ -1,0 +1,7 @@
+*.pyc
+*.npy
+data/*
+output/*
+*.jpg
+*.png
+Pre-trained_Models/*
